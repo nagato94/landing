@@ -1,0 +1,20 @@
+.container{
+  margin: 10px 0 ;
+  width: 100%;
+  background-color: #2c2b2b;
+  height: 150px;
+  text-align: center;
+}
+.icons {
+ padding: 10px;
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.footer-desc{
+  font-size: 12px;
+}
+
+.hearth{
+  color: red;
+}
